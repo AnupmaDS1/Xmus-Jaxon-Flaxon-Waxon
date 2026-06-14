@@ -1,0 +1,10 @@
+list of all the python packages used (and versions)
+examples below
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyter
+openpyxl
